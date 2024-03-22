@@ -8,7 +8,7 @@ api_hash = os.getenv("API_HASH"42db0fd56c51ff2b94cf064838eba7c1"#")
 bot_token = os.getenv("BOT_TOKEN"7108702236:AAFhlxqV6XNZ22uyrrOUUrgOnwLV0kRXe1A"#")
 # =========================================================== #
 
-db_url = os.getenv("DB_URL"mongodb+srv://mongodb:xF8kD1TemWtOAsmu@cluster0.glzxufo.mongodb.net/?retryWrites=true&w=majority"#")
+db_url = os.getenv("DB_URL"mongodb+srv://xarbot90:RpLl7DSfn3VingKZ@cluster0.bj4ttnc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"#")
 db_name = os.getenv("DB_NAME", "telegram") #bisa diganti sesuai kebutuhan
 # =========================================================== #
 
