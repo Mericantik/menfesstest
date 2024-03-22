@@ -10,40 +10,40 @@
   "logo": "https://telegra.ph/file/a24d7daa6a191d6eb7176.jpg",
   "env": {
     "BOT_TOKEN": {
-      "description": "7108702236:AAFhlxqV6XNZ22uyrrOUUrgOnwLV0kRXe1A",
-      "value": ""
+      "description": "Masukkan token bot kamu, didapatkan dari @Botfather",
+      "value": "7108702236:AAFhlxqV6XNZ22uyrrOUUrgOnwLV0kRXe1A"
     },
     "API_HASH": {
-      "description": "42db0fd56c51ff2b94cf064838eba7c1",
-      "value": ""
+      "description": "app hash kamu, didapatkan dari my.telegram.org",
+      "value": "42db0fd56c51ff2b94cf064838eba7c1"
     },
     "API_ID": {
-      "description": "25639252",
-      "value": ""
+      "description": "app id kmau, didapatkan dari my.telegram.org",
+      "value": "25639252"
     },
     "DB_URL": {
-      "description": "mongodb+srv://mongodb:xF8kD1TemWtOAsmu@cluster0.glzxufo.mongodb.net/?retryWrites=true&w=majority",
-      "value": ""
+      "description": "dapatkan database kamu di https://cloud.mongodb.com/",
+      "value": "mongodb+srv://mongodb:xF8kD1TemWtOAsmu@cluster0.glzxufo.mongodb.net/?retryWrites=true&w=majority"
     },
     "DB_NAME": {
-      "description": "mongodb",
+      "description": "nama database",
       "value": "telegram"
     },
     "CHANNEL_1": {
-      "description": "-1002092189715",
-      "value": "-1002092189715"
+      "description": "channel id, untuk mengirim menfess",
+      "value": "-100"
     },
     "CHANNEL_2": {
-      "description": "-1001991024922",
-      "value": "-1001991024922"
+      "description": "grup id, untuk mengcomment dichannel menfess",
+      "value": "-100"
     },
     "CHANNEL_LOG": {
-      "description": "1002070417836",
-      "value": "-1002070417836"
+      "description": "channel log id, untuk melihat log user menfess",
+      "value": "-100"
     },
     "ID_ADMIN": {
       "description": "ID OWNER BOT MENFESS",
-      "value": "6367490039"
+      "value": "907544310"
     },
     "BATAS_KIRIM": {
       "description": "Batas kirim menfess perhari",
