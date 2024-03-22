@@ -4,17 +4,17 @@ from dotenv import load_dotenv
 load_dotenv()
 
 api_id = int(os.getenv("API_ID"25639252"#"))
-api_hash = os.getenv("API_HASH" 42db0fd56c51ff2b94cf064838eba7c1"#")
-bot_token = os.getenv("BOT_TOKEN" 7108702236:AAFhlxqV6XNZ22uyrrOUUrgOnwLV0kRXe1A"#")
+api_hash = os.getenv("API_HASH" 42db0fd56c51ff2b94cf064838eba7c1")
+bot_token = os.getenv("BOT_TOKEN" 7108702236:AAFhlxqV6XNZ22uyrrOUUrgOnwLV0kRXe1A")
 # =========================================================== #
 
-db_url = os.getenv("DB_URL"mongodb+srv://xarbot90:RpLl7DSfn3VingKZ@cluster0.bj4ttnc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"#")
+db_url = os.getenv("DB_URL"mongodb+srv://xarbot90:RpLl7DSfn3VingKZ@cluster0.bj4ttnc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0")
 db_name = os.getenv("DB_NAME", "telegram") #bisa diganti sesuai kebutuhan
 # =========================================================== #
 
 channel_1 = int(os.getenv("CHANNEL_1"-1002092189715"#"))
 channel_2 = int(os.getenv("CHANNEL_2"-1002070417836"#")) #untuk group comentar user
-channel_log = int(os.getenv("CHANNEL_LOG"-1001991024922"#"))
+channel_log = int(os.getenv("CHANNEL_LOG"-1001991024922"))
 # =========================================================== #
 
 id_admin = int(os.getenv("ID_ADMIN", "6367490039"))
