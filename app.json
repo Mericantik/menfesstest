@@ -31,15 +31,15 @@
     },
     "CHANNEL_1": {
       "description": "channel id, untuk mengirim menfess",
-      "value": "-100"
+      "value": "-1002092189715"
     },
     "CHANNEL_2": {
       "description": "grup id, untuk mengcomment dichannel menfess",
-      "value": "-100"
+      "value": "-1002070417836"
     },
     "CHANNEL_LOG": {
       "description": "channel log id, untuk melihat log user menfess",
-      "value": "-100"
+      "value": "-1001991024922"
     },
     "ID_ADMIN": {
       "description": "ID OWNER BOT MENFESS",
