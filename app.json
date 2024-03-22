@@ -10,40 +10,40 @@
   "logo": "https://telegra.ph/file/a24d7daa6a191d6eb7176.jpg",
   "env": {
     "BOT_TOKEN": {
-      "description": "Masukkan token bot kamu, didapatkan dari @Botfather",
+      "description": "7108702236:AAFhlxqV6XNZ22uyrrOUUrgOnwLV0kRXe1A",
       "value": ""
     },
     "API_HASH": {
-      "description": "app hash kamu, didapatkan dari my.telegram.org",
+      "description": "42db0fd56c51ff2b94cf064838eba7c1",
       "value": ""
     },
     "API_ID": {
-      "description": "app id kmau, didapatkan dari my.telegram.org",
+      "description": "25639252",
       "value": ""
     },
     "DB_URL": {
-      "description": "dapatkan database kamu di https://cloud.mongodb.com/",
+      "description": "mongodb+srv://mongodb:xF8kD1TemWtOAsmu@cluster0.glzxufo.mongodb.net/?retryWrites=true&w=majority",
       "value": ""
     },
     "DB_NAME": {
-      "description": "nama database",
+      "description": "mongodb",
       "value": "telegram"
     },
     "CHANNEL_1": {
-      "description": "channel id, untuk mengirim menfess",
-      "value": "-100"
+      "description": "-1002092189715",
+      "value": "-1002092189715"
     },
     "CHANNEL_2": {
-      "description": "grup id, untuk mengcomment dichannel menfess",
-      "value": "-100"
+      "description": "-1001991024922",
+      "value": "-1001991024922"
     },
     "CHANNEL_LOG": {
-      "description": "channel log id, untuk melihat log user menfess",
-      "value": "-100"
+      "description": "1002070417836",
+      "value": "-1002070417836"
     },
     "ID_ADMIN": {
       "description": "ID OWNER BOT MENFESS",
-      "value": "907544310"
+      "value": "6367490039"
     },
     "BATAS_KIRIM": {
       "description": "Batas kirim menfess perhari",
