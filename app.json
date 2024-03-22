@@ -23,11 +23,11 @@
     },
     "DB_URL": {
       "description": "dapatkan database kamu di https://cloud.mongodb.com/",
-      "value": "mongodb+srv://mongodb:xF8kD1TemWtOAsmu@cluster0.glzxufo.mongodb.net/?retryWrites=true&w=majority"
+      "value": "mongodb+srv://xarbot90:RpLl7DSfn3VingKZ@cluster0.bj4ttnc.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
     },
     "DB_NAME": {
       "description": "nama database",
-      "value": "telegram"
+      "value": "xarbot90"
     },
     "CHANNEL_1": {
       "description": "channel id, untuk mengirim menfess",
