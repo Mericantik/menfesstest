@@ -12,8 +12,8 @@ db_url = os.getenv("DB_URL"mongodb+srv://xarbot90:RpLl7DSfn3VingKZ@cluster0.bj4t
 db_name = os.getenv("DB_NAME", "telegram") #bisa diganti sesuai kebutuhan
 # =========================================================== #
 
-channel_1 = int(os.getenv("CHANNEL_1"-1002092189715"#"))
-channel_2 = int(os.getenv("CHANNEL_2"-1002070417836"#")) #untuk group comentar user
+channel_1 = int(os.getenv("CHANNEL_1"-1002092189715"))
+channel_2 = int(os.getenv("CHANNEL_2"-1002070417836")) #untuk group comentar user
 channel_log = int(os.getenv("CHANNEL_LOG"-1001991024922"))
 # =========================================================== #
 
